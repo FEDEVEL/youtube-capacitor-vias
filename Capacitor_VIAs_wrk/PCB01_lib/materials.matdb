@@ -1,0 +1,11 @@
+<!DOCTYPE Materials>
+<Materials>
+    <Conductors>
+        <Conductor mur_real="1" parmtype="1" mur_imag="" imag="" real="5.87e+07 Siemens/m" name="Copper"/>
+    </Conductors>
+    <Dielectrics>
+        <Dielectric highfreq="1 THz" mur_real="1" loss_type="1" er_imag="" mur_imag="" lowfreq="1 KHz" valuefreq="1 GHz" er_real="4.6" name="FR_4" er_loss="0.01"/>
+    </Dielectrics>
+    <Semiconductors/>
+    <roughness/>
+</Materials>

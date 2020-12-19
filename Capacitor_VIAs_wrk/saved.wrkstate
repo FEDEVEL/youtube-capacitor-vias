@@ -1,0 +1,9 @@
+<!DOCTYPE SaveWorkspaceState>
+<SaveWorkspaceState>
+    <Windows>
+        <Schematic height="864" x1="106" width="1536" view="schematic" cell="PCB02_PI-AC_AC_Analysis" y1="9" lib="PCB021_lib" geom="1,0,1,107,40,1536,864,1920,1080"/>
+        <Layout height="1057" x1="1919" width="1920" view="layout" cell="PCB02" y1="-8" lib="PCB021_lib" geom="1,1,3,-1920,23,120,1016,1920,1080"/>
+        <Layout height="1057" x1="1919" width="1920" view="layout" cell="PCB03" y1="-8" lib="PCB03_lib" geom="1,1,2,-1920,23,120,1016,1920,1080"/>
+    </Windows>
+    <MainWindowTab tab="1"/>
+</SaveWorkspaceState>

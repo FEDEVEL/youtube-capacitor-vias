@@ -1,0 +1,20 @@
+<!DOCTYPE Technology>
+<Lpp_List>
+    <LPP fill="18" layer="bottom_overlay" alpha="105" mode="2" rgb="15787660" protect="0" line="0" purpose="drawing" visible="1"/>
+    <LPP fill="18" layer="bottom_paste" alpha="105" mode="2" rgb="9419919" protect="0" line="0" purpose="drawing" visible="1"/>
+    <LPP fill="18" layer="bottom_solder" alpha="105" mode="2" rgb="2003199" protect="0" line="0" purpose="drawing" visible="1"/>
+    <LPP fill="18" layer="comp_pkg_bottom" alpha="105" mode="2" rgb="16776960" protect="0" line="0" purpose="drawing" visible="1"/>
+    <LPP fill="18" layer="comp_pkg_pad" alpha="105" mode="2" rgb="49152" protect="0" line="0" purpose="drawing" visible="1"/>
+    <LPP fill="18" layer="comp_pkg_top" alpha="105" mode="2" rgb="16711680" protect="0" line="0" purpose="drawing" visible="1"/>
+    <LPP fill="18" layer="drill" alpha="105" mode="2" rgb="13789470" protect="0" line="0" purpose="drawing" visible="1"/>
+    <LPP fill="18" layer="keep-out_layer" alpha="105" mode="2" rgb="16711680" protect="0" line="0" purpose="drawing" visible="1"/>
+    <LPP fill="18" layer="l1" alpha="105" mode="2" rgb="25600" protect="0" line="0" purpose="drawing" visible="1"/>
+    <LPP fill="18" layer="l2" alpha="105" mode="2" rgb="13458524" protect="0" line="0" purpose="drawing" visible="1"/>
+    <LPP fill="18" layer="l3" alpha="105" mode="2" rgb="16716947" protect="0" line="0" purpose="drawing" visible="1"/>
+    <LPP fill="18" layer="l4" alpha="105" mode="2" rgb="16444375" protect="0" line="0" purpose="drawing" visible="1"/>
+    <LPP fill="18" layer="silk_screen2" alpha="105" mode="2" rgb="9127187" protect="0" line="0" purpose="drawing" visible="1"/>
+    <LPP fill="18" layer="silk_screen" alpha="105" mode="2" rgb="3100495" protect="0" line="0" purpose="drawing" visible="1"/>
+    <LPP fill="18" layer="top_overlay" alpha="105" mode="2" rgb="65535" protect="0" line="0" purpose="drawing" visible="1"/>
+    <LPP fill="18" layer="top_paste" alpha="105" mode="2" rgb="255" protect="0" line="0" purpose="drawing" visible="1"/>
+    <LPP fill="18" layer="top_solder" alpha="105" mode="2" rgb="16711935" protect="0" line="0" purpose="drawing" visible="1"/>
+</Lpp_List>

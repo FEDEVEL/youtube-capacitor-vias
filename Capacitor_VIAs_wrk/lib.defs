@@ -1,0 +1,11 @@
+INCLUDE $HPEESOF_DIR/oalibs/analog_rf.defs
+DEFINE Capacitor_VIAs_lib Capacitor_VIAs_lib
+ASSIGN Capacitor_VIAs_lib libMode shared
+DEFINE PCB02_lib PCB02_lib
+ASSIGN PCB02_lib libMode shared
+DEFINE PCB01_lib PCB01_lib
+ASSIGN PCB01_lib libMode shared
+DEFINE PCB021_lib PCB021_lib
+ASSIGN PCB021_lib libMode shared
+DEFINE PCB03_lib PCB03_lib
+ASSIGN PCB03_lib libMode shared

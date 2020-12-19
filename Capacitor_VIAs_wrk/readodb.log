@@ -1,0 +1,18 @@
+Tue Dec  8 12:24:07 2020
+Reading ODB file "E:/Github/youtube-capacitor-vias/Capacitor VIAs - Board 03/Project Outputs for Capacitor VIAs - Board 03/ODB/PCB03.zip".
+
+Warnings occurred during ODB file load:
+
+
+*** NOTE ABOUT SUBSTRATE ! *******************************************
+
+Substrate file 'PCB03.stack' and materials file 'materials.matdb'
+are created at E:/Github/youtube-capacitor-vias/Capacitor_VIAs_wrk/PCB03_lib.
+
+Layers of type DOCUMENT are not added in layer stackup.
+Substrate information such as layer thickness and dielectric value has been set
+to default values. This can be edited in 
+Substrate Editor (Technology > Material Definitions...).
+**********************************************************************
+
+Import Complete

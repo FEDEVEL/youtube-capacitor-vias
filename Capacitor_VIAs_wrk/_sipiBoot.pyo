@@ -1,0 +1,20 @@
+# -*- coding: utf-8 -*-
+
+import shutil
+import empro.toolkit.analysis as analysis
+
+def main():
+	path=r"E:/Github/youtube-capacitor-vias/Capacitor_VIAs_wrk"
+	lib=r"PCB03_lib"
+	subst=r"PCB03_lib/PCB03.subst"
+	substlib=r"PCB03_lib"
+	substname=r"PCB03"
+	ltdSubst=r"simulation/PCB03_lib/%P%C%B03/sipi/extra/0/proj.ltd"
+	cell=r"PCB03"
+	layout=r"layout"
+	sipiSetup=r"sipi"
+	libS3D=r"simulation/PCB03_lib/%P%C%B03/sipi/extra/0/proj_libS3D.xml"
+	varDictionary={}
+	exprDictionary={}
+	analysis.loadDesign(path=path, lib=lib, subst=subst, substlib=substlib, substname=substname, ltd_subst=ltdSubst, cell=cell, layout_view=layout, sipi_view=sipiSetup, libS3D=libS3D, var_dict=varDictionary, expr_dict=exprDictionary)
+	shutil.move(r"E:\Github\youtube-capacitor-vias\Capacitor_VIAs_wrk\_sipiBoot.py", r"E:\Github\youtube-capacitor-vias\Capacitor_VIAs_wrk\_sipiBoot.pyo")

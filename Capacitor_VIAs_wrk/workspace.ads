@@ -1,0 +1,72 @@
+<ADSWorkspace Revision="9" Version="100">
+    <Workspace Name="">
+        <LibraryDefs Name="lib.defs" />
+        <Library Name="ads_standard_layers" />
+        <Library Name="ads_schematic_layers" />
+        <Library Name="empro_standard_layers" />
+        <Library Name="ads_builtin" />
+        <Library Name="ads_standard_layers_ic" />
+        <Library Name="ads_schematic_layers_ic" />
+        <Library Name="ads_schematic_ports_ic" />
+        <Library Name="ads_rflib" />
+        <Library Name="ads_sources" />
+        <Library Name="ads_simulation" />
+        <Library Name="ads_tlines" />
+        <Library Name="ads_bondwires" />
+        <Library Name="ads_datacmps" />
+        <Library Name="ads_behavioral" />
+        <Library Name="ads_textfonts" />
+        <Library Name="ads_common_cmps" />
+        <Library Name="ads_designs" />
+        <Library Name="ads_pelib" />
+        <ConfigFile Name="de_sim.cfg" />
+        <ConfigFile Name="hpeesofsim.cfg" />
+        <Preferences Name="layout.prf" />
+        <Preferences Name="schematic.prf" />
+        <Library Name="Capacitor_VIAs_lib" />
+        <Log Name="readodb.log" />
+        <Library Name="PCB02_lib" />
+        <Log Name="search_history.log" />
+        <Library Name="PCB01_lib" />
+        <Substrate Name="PCB01_lib:PCB01.subst" />
+        <Substrate Name="PCB01_lib:tech.subst" />
+        <Cell Name="PCB01_lib:PCB01" />
+        <Folder Name="PCB01_lib_Components">
+            <Cell Name="PCB01_lib:C0805" />
+            <Cell Name="PCB01_lib:C0201" />
+            <Cell Name="PCB01_lib:C0603" />
+            <Cell Name="PCB01_lib:C1206" />
+            <Cell Name="PCB01_lib:TH-TH_TP_TH_TH" />
+            <Cell Name="PCB01_lib:TOP-TH_TP_TOP_TH" />
+            <Cell Name="PCB01_lib:C0402" />
+        </Folder>
+        <Library Name="PCB021_lib" />
+        <Substrate Name="PCB021_lib:PCB02.subst" />
+        <Substrate Name="PCB021_lib:tech.subst" />
+        <Cell Name="PCB021_lib:PCB02" />
+        <Folder Name="PCB021_lib_Components">
+            <Cell Name="PCB021_lib:TH-TH_TP_TH_TH" />
+            <Cell Name="PCB021_lib:C0402-10n" />
+            <Cell Name="PCB021_lib:C0402" />
+        </Folder>
+        <Cell Name="PCB021_lib:PCB02_PI-AC_AC_Analysis" />
+        <Text Name="sipiSchFile.txt" />
+        <Data_Files Name="AC_Analysis_outplan.def" />
+        <Data_Files Name="PCB02_sipi_AC_Analysis.sio" />
+        <Log Name="netlist.log" />
+        <Dataset Name="PCB02_PI_AC_AC_Analysis.ds" />
+        <Data_Files Name="PCB02_PI_AC_AC_Analysis.ds" />
+        <Data_Files Name="PCB02_PI_AC_AC_Analysis_data\logFile.txt" />
+        <ConfigFile Name="dds.cfg" />
+        <Data_Display Name="PCB02_PI-AC_AC_Analysis.dds" />
+        <Library Name="PCB03_lib" />
+        <Substrate Name="PCB03_lib:PCB03.subst" />
+        <Substrate Name="PCB03_lib:tech.subst" />
+        <Cell Name="PCB03_lib:PCB03" />
+        <Folder Name="PCB03_lib_Components">
+            <Cell Name="PCB03_lib:TH-TH_TP_TH_TH" />
+            <Cell Name="PCB03_lib:C0402-10n" />
+            <Cell Name="PCB03_lib:C0402" />
+        </Folder>
+    </Workspace>
+</ADSWorkspace>
